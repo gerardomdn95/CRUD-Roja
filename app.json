@@ -1,0 +1,10 @@
+{
+    "name": "CRUD Cinta Roja",
+    "description": "Server hecho con Express y MongoDB.",
+    "keywords": [
+        "express",
+        "MongoDB",
+        "Heroku"
+    ],
+    "repository": "https://github.com/gerardomdn95/CRUD-Roja"
+}
