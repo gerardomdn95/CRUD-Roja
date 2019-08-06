@@ -2,7 +2,7 @@
   "name": "backend_mongo_b25",
   "version": "1.0.0",
   "description": "Este es un backend conectado a MongoDB",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
